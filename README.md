@@ -8,7 +8,7 @@
 ##
   
 <div align="center">
-  <a href="[https://github.com/pereiraR3](https://github.com/pereiraR3)">
+  <a href="https://github.com/pereiraR3">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pereiraR3&show_icons=true&theme=radical&count_private=true" height="200em">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pereiraR3&theme=radical" height="200em" alt="Top Languages"/>
