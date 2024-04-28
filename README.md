@@ -1,10 +1,10 @@
 ## <div align = "center"> Hello guys my name is Anthony, welcome to my profile!! </div> 
 
 ### Experience and Education
-- 🎓 Bachelor's in Computer Science from Federal University of Mato Grosso (UFMT)
-- 💼 Currently working as a Full Stack Developer at Instituto de Computação (IC - UFMT)
-- 👨🏻‍💻 Project Director at Infocorp with a Bachelor's in Computer Science from UFMT
-  
+- 🎓 Bachelor's in Computer Science from Federal University of Mato Grosso (UFMT) [August 2022 - 5 semester (IN PROGRESS)]
+- 💼 Currently working as a Full Stack Developer at Instituto de Computação (IC - UFMT) [2023-07 - 2024-07]
+- 👨🏻‍💻 Project Director at Infocorp with a Bachelor's in Computer Science from UFMT [2023-2024]
+- 👨🏻‍💻 Scholarship holder in RNP research project - Focused on networks, especially IDS [2024 started in March]
 ##
   
 <div align="center">
