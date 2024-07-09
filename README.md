@@ -4,11 +4,16 @@
 
 <p align="center">I ❤️ solving complex problems through technology. <br><br> I'm a software engineer with a passion for optimizing and innovating software solutions. My experience spans technical and managerial roles, including leading teams, coordinating projects, and continuously improving software with a focus on agile development principles.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=pereiraR3&theme=radical&mode=weekly" />
+<div align="center" style="margin-bottom:100px;">
+  <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=pereiraR3&theme=radical&mode=weekly" alt="GitHub Readme Streak Stats" />
+</div>
 
- </div>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pereiraR3&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pereiraR3&repo=github-readme-stats" alt="Readme Card" />
+  </a>
+</div>
+
 
 
  &nbsp;
