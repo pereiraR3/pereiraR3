@@ -43,7 +43,7 @@ async function updateReadme() {
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="./images/banner.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ solving complex problems through technology. <br><br> I'm a software engineer with a passion for optimizing and innovating software solutions. My experience spans technical and managerial roles, including leading teams, coordinating projects, and continuously improving software with a focus on agile development principles.</p>&nbsp;
+<p align="center"> 🙋🏾‍♂️ I like solving complex problems through technology. <br><br> I'm a software engineer with a passion for optimizing and innovating software solutions. My experience spans technical and managerial roles, including leading teams, coordinating projects, and continuously improving software with a focus on agile development principles.</p>&nbsp;
 
 <div align="center" style="margin-bottom:100px; display: flex; justify-content: center; gap: 10px;">
   <img style="width: 45%;" src="${streakStatsUrl}" alt="GitHub Readme Streak Stats" />
