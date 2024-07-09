@@ -21,16 +21,16 @@ jobs:
         with:
           node-version: '14'
 
+      - name: Install Dependencies
+        run: |
+          npm install node-fetch
+
       - name: Run Update Script
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PAT_1: ${{ secrets.PAT_1 }}
         run: |
           node update-readme.js
-
-      - name: Commit and Push changes
-        uses: actions/checkout@v2
-        with:
-          ref: main
 
       - name: Commit and Push changes
         run: |
