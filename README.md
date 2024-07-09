@@ -4,10 +4,10 @@
 
 <p align="center">I ❤️ solving complex problems through technology. <br><br> I'm a software engineer with a passion for optimizing and innovating software solutions. My experience spans technical and managerial roles, including leading teams, coordinating projects, and continuously improving software with a focus on agile development principles.</p>&nbsp;
 
-<div align="center" style="margin-bottom:100px;">
-    <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=pereirar3&theme=radical&mode=weekly" alt="GitHub Readme Streak Stats" />
-    <img width="40%" src="https://github-readme-stats-5laq9y5lh-anthony-ricardos-projects.vercel.app/api/top-langs/?username=pereirar3&show_icons=true&theme=radical&layout=compact" alt="GitHub Top Languages" />
-</div>
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-5laq9y5lh-anthony-ricardos-projects.vercel.app/api/top-langs/?username=pereirar3&show_icons=true&theme=radical&layout=compact" />
+ </div>
 
  
  &nbsp;
