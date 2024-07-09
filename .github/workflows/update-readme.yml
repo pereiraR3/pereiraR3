@@ -33,10 +33,11 @@ jobs:
 
       - name: Commit and Push changes
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_1 }}
+          PAT_1: ${{ secrets.PAT_1 }}
         run: |
           git config --global user.name 'pereiraR3'
           git config --global user.email 'anthony_rodriguespereira@outlook.com'
+          git remote set-url origin https://username:${{ secrets.PAT_1 }}@github.com/pereiraR3/pereiraR3.git
           git add README.md
           git commit -m 'Update README'
-          git push
+          git push origin main
