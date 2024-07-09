@@ -8,7 +8,7 @@
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=pereiraR3&theme=radical&mode=weekly" />
 
  </div>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pereirar3&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pereiraR3&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
  &nbsp;
