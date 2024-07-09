@@ -6,9 +6,9 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=pereiraR3&theme=radical&mode=weekly" />
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pereirar3&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
  </div>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pereirar3&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
  &nbsp;
