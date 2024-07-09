@@ -10,7 +10,6 @@
   <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=pereiraR3&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
-<p align="center">Total Commits: 184</p>
 
 &nbsp;
 &nbsp;
