@@ -27,12 +27,13 @@ jobs:
 
       - name: Run Update Script
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PAT_1: ${{ secrets.PAT_1 }}
         run: |
           node update-readme.mjs
 
       - name: Commit and Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_1 }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
