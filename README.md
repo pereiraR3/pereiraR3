@@ -6,9 +6,11 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=pereiraR3&theme=radical&mode=weekly" />
-<img width="40%" src="https://https://github-readme-stats-indol-seven-37.vercel.app/api/top-langs/?username=pereiraR3&show_icons=true&theme=radical&layout=compact&token=${process.env.PAT_1}"
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pereirar3&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
  </div>
- 
+
+
  &nbsp;
  &nbsp;
 
