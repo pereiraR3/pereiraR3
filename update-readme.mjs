@@ -51,7 +51,6 @@ async function updateReadme() {
   <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=${user}&show_icons=true&theme=${theme}&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
-<p align="center">Total Commits: ${totalCommits}</p>
 
 &nbsp;
 &nbsp;
