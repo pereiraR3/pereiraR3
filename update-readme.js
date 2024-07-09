@@ -1,5 +1,5 @@
-const fs = require('fs');
-const fetch = require('node-fetch');
+import fs from 'fs';
+import fetch from 'node-fetch';
 
 const githubToken = process.env.PAT_1;
 const user = 'pereiraR3';
