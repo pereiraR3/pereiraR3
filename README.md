@@ -6,8 +6,9 @@
 
 <div align="center" style="margin-bottom:100px;">
   <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=pereiraR3&theme=radical&mode=weekly" alt="GitHub Readme Streak Stats" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=pereiraR3&repo=github-readme-stats&theme=radical&layout=compact" alt="Readme Card" />
-
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pereiraR3&theme=radical&layout=compact" alt="Top Langs" />
+  </a>
 </div>
 
 
