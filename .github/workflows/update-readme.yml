@@ -6,6 +6,7 @@ on:
       - main
   schedule:
     - cron: '0 * * * *' # A cada hora
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -22,10 +23,14 @@ jobs:
 
       - name: Run Update Script
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PAT_1: ${{ secrets.PAT_1 }}
         run: |
           node update-readme.js
+
+      - name: Commit and Push changes
+        uses: actions/checkout@v2
+        with:
+          ref: main
 
       - name: Commit and Push changes
         run: |
