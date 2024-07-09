@@ -40,4 +40,4 @@ jobs:
           git remote set-url origin https://pereiraR3:${{ secrets.PAT_1 }}@github.com/pereiraR3/pereiraR3.git
           git add README.md
           git commit -m 'Update README'
-          git push origin main
+          git push https://pereiraR3:${{ secrets.PAT_1 }}@github.com/pereiraR3/pereiraR3.git HEAD:main
