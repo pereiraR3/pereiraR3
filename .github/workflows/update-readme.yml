@@ -15,6 +15,10 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
+        with:
+          repository: pereiraR3/pereiraR3
+          token: ${{ secrets.PAT_1 }}
+          persist-credentials: false
 
       - name: Setup Node.js
         uses: actions/setup-node@v2
@@ -37,7 +41,6 @@ jobs:
         run: |
           git config --global user.name 'pereiraR3'
           git config --global user.email 'anthony_rodriguespereira@outlook.com'
-          git remote set-url origin https://pereiraR3:${{ secrets.PAT_1 }}@github.com/pereiraR3/pereiraR3.git
           git add README.md
           git commit -m 'Update README'
           git push https://pereiraR3:${{ secrets.PAT_1 }}@github.com/pereiraR3/pereiraR3.git HEAD:main
