@@ -48,7 +48,6 @@ async function updateReadme() {
 <div align="center" style="margin-bottom:100px; display: flex; justify-content: center; gap: 10px;">
   <img style="width: 45%;" src="${streakStatsUrl}" alt="GitHub Readme Streak Stats" />
   <img style="width: 32%;" src="${topLangsUrl}" alt="Top Langs" />
-  <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=${user}&show_icons=true&theme=${theme}&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
 
