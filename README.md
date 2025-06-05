@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="./images/banner.png" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="./images/banner02.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center"> 🙋🏾‍♂️ I like solving complex problems through technology. <br><br> I'm a software engineer with a passion for optimizing and innovating software solutions. My experience spans technical and managerial roles, including leading teams, coordinating projects, and continuously improving software with a focus on agile development principles.</p>&nbsp;
